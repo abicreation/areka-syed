@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
-# Originally Written By:Muhammad Hamza
+# Originally Written By:Areka-tricker
 # Source : Python2"
 # Donot Recode It. 
 
@@ -59,17 +59,33 @@ def hopss(z):
 ##### LOGO #####
 banner = """
 \033[1;92m___  ____   _ _____ _   __  ___   _   _ 
-\033[1;92m|  \/  | | | /  ___| | / / / _ \ | \ | |
-\033[1;92m| .  . | | | \ `--.| |/ / / /_\ \|  \| |
-\033[1;92m| |\/| | | | |`--. \    \ |  _  || . ` |
-\033[1;92m| |  | | |_| /\__/ / |\  \| | | || |\  |
-\033[1;92m\_|  |_/\___/\____/\_| \_/\_| |_/\_| \_/                                               
+\033[1;92m|
+
+╭━━━╮╱╱╱╱╭╮╱╱╱╱╱╭━━━╮╱╱╱╱╱╱╱╱╭╮
+
+┃╭━╮┃╱╱╱╱┃┃╱╱╱╱╱┃╭━╮┃╱╱╱╱╱╱╱╱┃┃
+
+┃┃╱┃┣━┳━━┫┃╭┳━━╮┃╰━━┳╮╱╭┳━━┳━╯┃
+
+┃╰━╯┃╭┫┃━┫╰╯┫╭╮┃╰━━╮┃┃╱┃┃┃━┫╭╮┃
+
+┃╭━╮┃┃┃┃━┫╭╮┫╭╮┃┃╰━╯┃╰━╯┃┃━┫╰╯┃
+
+╰╯╱╰┻╯╰━━┻╯╰┻╯╰╯╰━━━┻━╮╭┻━━┻━━╯
+
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃
+
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯
+\033[1;92m| 
+\033[1;92m| 
+\033[1;92m|
+\033[1;92m\_|                                       
 \033[1;97m-----------------------------------------------
-\033[1;91m➣ OWNER   : JAM SHAHRUKH X MUSKAN NOOR
-\033[1;91m➣ Github  : https://github.com/muskanckg
-\033[1;91m➣ GANG    : CRAZY KING GANG
-\033[1;91m➣ Youtube : JAM SHAHRUKH TECHNICAL
-\033[1;91m➣ WhatsApp: +923053176060
+\033[1;91m➣ OWNER   : Areka  X hacker
+\033[1;91m➣ Github  : https://github.com/Areka-syed
+\033[1;91m➣ GANG    : CRazy friends hacker ki jan
+\033[1;91m➣ Youtube : Master In Ethical Hacking
+\033[1;91m➣ WhatsApp: +923203346497
 \033[1;97m-----------------------------------------------"""
 # titik #
 def tik():
@@ -161,7 +177,7 @@ def men():
 		time.sleep(3)
 		os.hamza('python2 jam.py')
 	elif rana =="6":
-		os.system('xdg-open https://www.facebook.com/jam.shahrukh124')
+		os.system('xdg-open https://m.me/Shadowhackr3333344')
 		menu()
 	elif rana =="7":
 		os.system('rm -rf login.txt')
